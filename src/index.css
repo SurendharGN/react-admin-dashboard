@@ -2,4 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
+.sidebar-text{
+    @apply font-raleway pl-5 hover:scale-x-110 hover:scale-y-110 cursor-pointer transition ease-in-out duration-200 text-gray-700 hover:text-black 
+}
